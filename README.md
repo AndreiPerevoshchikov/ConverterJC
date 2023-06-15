@@ -36,3 +36,6 @@ cd ConverterjC
 ```
 python3 main.py
 ```
+
+# Работа программы
+(/images/picture.jpg)
