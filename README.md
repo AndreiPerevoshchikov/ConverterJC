@@ -38,4 +38,4 @@ python3 main.py
 ```
 
 # Работа программы
-(pictures.jpg)
+(https://github.com/AndreiPerevoshchikov/ConverterJC/blob/main/pictures.jpg)
