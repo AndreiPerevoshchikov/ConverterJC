@@ -38,4 +38,4 @@ python3 main.py
 ```
 
 # Работа программы
-(/images/picture.jpg)
+(2023-06-14_21-49-46.png)
