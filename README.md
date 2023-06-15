@@ -38,4 +38,4 @@ python3 main.py
 ```
 
 # Работа программы
-(https://github.com/AndreiPerevoshchikov/ConverterJC/blob/main/pictures.jpg)
+[Alt](https://github.com/AndreiPerevoshchikov/ConverterJC/blob/main/pictures.jpg)
