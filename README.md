@@ -38,4 +38,4 @@ python3 main.py
 ```
 
 # Работа программы
-(\pictures.jpg)
+(pictures.jpg)
