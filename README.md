@@ -36,6 +36,6 @@ cd ConverterjC
 ```
 python3 main.py
 ```
-
+[pictures](https://github.com/AndreiPerevoshchikov/ConverterJC/assets/114106683/58211ba9-45f9-408c-985a-268cbf7a6eeb)
 # Работа программы
 [Alt](https://github.com/AndreiPerevoshchikov/ConverterJC/blob/main/pictures.jpg)
